@@ -39,13 +39,15 @@ Full-stack develepor with a passion for different languages and
 #
 
 ### Languanges
-<br />
+
 #### That I know:
 
 <img align="left" src="https://flagcdn.com/br.svg" width="30" alt="Brazil">
 <img align="left" src="https://flagcdn.com/us.svg" width="30" alt="United States">
 <img align="left" src="https://flagcdn.com/es.svg" width="30" alt="Spain">
 <img align="left" src="https://flagcdn.com/fr.svg" width="30" alt="France">
+
+<br />
 
 #### That I'm studying:
 
