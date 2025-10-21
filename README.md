@@ -39,15 +39,15 @@ Full-stack develepor with a passion for different languages and
 #
 
 ### Languanges
-
-## That I know
+<br />
+#### That I know:
 
 <img align="left" src="https://flagcdn.com/br.svg" width="30" alt="Brazil">
 <img align="left" src="https://flagcdn.com/us.svg" width="30" alt="United States">
 <img align="left" src="https://flagcdn.com/es.svg" width="30" alt="Spain">
 <img align="left" src="https://flagcdn.com/fr.svg" width="30" alt="France">
 
-## That I'm studying 
+#### That I'm studying:
 
 <img align="left" src="https://flagcdn.com/ru.svg" width="30" alt="Russia">
 <img align="left" src="https://flagcdn.com/jp.svg" width="30" alt="Japan">
