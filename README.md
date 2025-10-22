@@ -53,11 +53,11 @@ Full-stack develepor with a passion for different languages and
 
 <img align="left" src="https://flagcdn.com/ru.svg" width="30" alt="Russia">
 <img align="left" src="https://flagcdn.com/jp.svg" width="30" alt="Japan">
+<img align="left" src="https://flagcdn.com/de.svg" width="30" alt="Germany">
+<img align="left" src="https://flagcdn.com/it.svg" width="30" alt="Italy">
 <img align="left" src="https://flagcdn.com/cn.svg" width="30" alt="China">
 <img align="left" src="https://flagcdn.com/kr.svg" width="30" alt="South Korea">
 <img align="left" src="https://flagcdn.com/gr.svg" width="30" alt="Greece">
-<img align="left" src="https://flagcdn.com/it.svg" width="30" alt="Italy">
-<img align="left" src="https://flagcdn.com/de.svg" width="30" alt="Germany">
 
 
 
